@@ -8,36 +8,4 @@ School entrances using facial recognition may sound like a smart easy system as 
 
 Facial recognition in travel and tourism industries could really benefit the speed of transport as it would take less time to confirm details on flights or train tickets. Not only that, but it may open up a larger range of customisation when at a store or when paying for accommodation. This would therefore reduce the need for human assistance. Although, less employment would affect those currently employed and many elderly or people with special needs could find it hard to use and may require human assistance. A risk of using recognition here, is when changing facial features, which may affect the program leading to misleading information. There is also a risk of people attempting to trick the program.
 
-Medicine and healthcare could really take advantage of recognition softwares as it can help determine whether a patient is infected with greater speed opposed to the mutiple tests a doctor would have to do. A faster system in hospitals would make more room for more patients resulting in a more rapid system, therefore also less delays.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M1l4ns/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Medicine and healthcare could really take advantage of recognition softwares as it can help determine whether a patient is infected with greater speed opposed to the mutiple tests a doctor would have to do. A faster system in hospitals would make more room for more patients resulting in a more rapid system, therefore also less delays. Yet there are also risks with this such as if the there is more than one virus detected it may result in misleading unreliable information. One of its disadvantages, could occur if there is a virus/bacteria the program doesnt know, therefore coming back with incorrect information.
