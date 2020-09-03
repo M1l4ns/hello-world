@@ -1,0 +1,21 @@
+#My Lottery Number Generator
+import random
+
+LotNum = []
+
+for n in range (0,6):
+  number = random.randint(1,50)
+  while number in LotNum:
+    number = random.randint(1,50)
+  LotNum.append(number)
+LotNum.sort()
+
+BBall=[]
+for n in range (0,1):
+  Ball = random.randint(1,50)
+  BBall.append(number)
+
+print("Your Lottery Numbers Are: ") 
+print(LotNum)
+print("Here is your Bonus Ball: ") 
+print(BBall)
