@@ -1,0 +1,25 @@
+#BELOW IS MY TURTLE SHAPE FILE
+
+import turtle
+
+Rob = turtle.Turtle()
+Rob.color("Orange", "yellow")
+for n in range(0,11):
+  Rob.forward(100)
+  Rob.right(45)
+  Rob.forward(100)
+  Rob.right(135)
+  Rob.forward(100)
+  Rob.right(45)
+  Rob.forward(100)
+  Rob.right(69.45)
+
+
+turtle.done()
+
+#This turtle code is not exactly the same as the shape, however it is the same concept as the shape provided.
+#To begin, I imported a turtle and named it Rob. I next gave Rob an outline colour of Orange and a yellow fill which could be added
+in the future to give it more character. I moved Rob Forward 100 pixel and rotated him right 45 degrees, I moved him forward again
+followed by 135 degress to get a straight line back towards the start. after it moved I gave it a 45 degree angle to return back to start.
+To finish of I moved it right by 69.45 degrees which made sure the diamond shapes between were made.
+I used a loop for the turtle to repeat these actions 11 times which drew out the shape.
